@@ -1,0 +1,21 @@
+{
+  "name": "cocktail-cli",
+  "version": "1.0.2",
+  "description": "cocktail-cli for your terminal",
+  "main": "bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/batuhansahan/cocktail-cli.git"
+  },
+  "scripts": {},
+  "author": "imbatuhansahan@gmail.com",
+  "license": "MIT",
+  "bin": {
+    "cocktail": "./bin/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "minimist": "^1.2.0",
+    "ora": "^4.0.3"
+  }
+}
