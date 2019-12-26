@@ -1,8 +1,8 @@
 {
   "name": "cocktail-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "cocktail-cli for your terminal",
-  "main": "bin/index.js",
+  "main": "./bin/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/batuhansahan/cocktail-cli.git"
